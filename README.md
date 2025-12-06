@@ -40,8 +40,8 @@ pip install -r requirements.txt
 * `requirements.txt` — Python dependencies.
 * `images/` — folder containing reference images:
 
-  * `open.png` — hand fully open
-  * `pinch.png` — thumb-index pinch
+  * `open.jpg` — hand fully open
+  * `pinch.jpg` — thumb-index pinch
   * `landmarks.png` — hand landmarks
 
 ---
