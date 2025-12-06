@@ -103,8 +103,8 @@ python VolumeHandControl.py
 * Thumb + index pinch/openness controls volume.
 * Landmarks used: tip IDs 4 and 8, wrist 0, index MCP 5.
 
-![Hand open](images/open.png)
-![Thumb-index pinch](images/pinch.png)
+![Hand open](images/open.jpg)
+![Thumb-index pinch](images/pinch.jpg)
 
 ---
 
